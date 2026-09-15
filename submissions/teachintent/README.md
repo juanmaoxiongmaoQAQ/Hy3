@@ -114,7 +114,7 @@ Speech Plan 可以进一步交给语音渲染模块执行。
 | 全程通过 API 调用 Hy3，不训练 / 微调 / 本地推理 | ✅ |
 | 至少 1 个可交互前端 | ✅ React Web |
 | 至少 2 个端到端 Demo 流程 | ✅ 多个完整教学案例 |
-| ≤ 2 min 视频或 GIF | ⏳ 正在录制，提交前补充 |
+| ≤ 2 min 视频或 GIF | ✅ [TeachIntent 产品演示](https://github.com/juanmaoxiongmaoQAQ/TeachIntent/blob/main/docs/demo.mp4) |
 | 项目开源 | ✅ Public GitHub repository |
 | README 写明 Hy3 在系统中的角色 | ✅ |
 | 独立应用仓库 | ✅ https://github.com/juanmaoxiongmaoQAQ/TeachIntent |
@@ -133,11 +133,9 @@ https://github.com/juanmaoxiongmaoQAQ/TeachIntent
 
 ## 演示视频
 
-≤ 2 分钟 Demo 视频 / GIF：
+≤ 2 分钟 Demo 视频：
 
-**待补充。**
-
-录制完成后将在最终提交前更新此处及独立项目 README。
+[▶ TeachIntent 产品演示](https://github.com/juanmaoxiongmaoQAQ/TeachIntent/blob/main/docs/demo.mp4)
 
 ## 声明
 
